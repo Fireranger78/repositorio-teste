@@ -1,0 +1,164 @@
+* {
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.menu-site {
+    margin-top: 40px;
+    margin-bottom: 144px;
+    margin-right: 0px;
+    margin-left: 76px;
+
+}
+
+.links {
+    font-size: 24px;
+    font-weight: 600px;
+    line-height: 29.26px;
+    color: #989D9C;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.image-logo {
+    width: 568px;
+    height: 500px;
+    margin-left: 125px;
+    display: inline-block;
+}
+
+.seção {
+    display: inline-block;
+    margin-left: 85px;
+}
+
+.titulo {
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 121.9px;
+    color: rgba(81, 81, 81, 1);
+}
+
+.titulo-2 {
+    font-weight: 500;
+    font-size: 58px;
+    line-height: 70.7px;
+    color: rgba(81, 81, 81, 1);
+    margin-left: 8px;
+}
+
+.paragrafo {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29.26px;
+    width: 515px;
+    margin-top: 32px;
+    margin-bottom: 65px;
+    color: rgba(132, 132, 132, 1);
+}
+
+
+
+
+
+
+.button-men {
+    width: 239px;
+    height: 64px;
+    border-radius: 30px;
+    background-color: rgba(173, 255, 0, 1);
+    border: none;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34.13px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    cursor: pointer;
+    color: rgba(0, 0, 0, 1);
+}
+
+
+
+
+
+.butão-login {
+    width: 130px;
+    height: 41px;
+    border-radius: 20.5px;
+    background-color: rgba(102, 90, 225, 1);
+    border: none;
+    color: rgba(255, 255, 255, 1);
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29.26px;
+    cursor: pointer;
+}
+
+
+
+
+@media screen and (max-width:700px) {
+
+
+
+    .menu-site {
+
+        display: none;
+    }
+
+    p {
+        display: none;
+
+    }
+
+
+
+
+    .image-logo {
+        width: 100%;
+        height: 50%;
+        display: block;
+        position: relative;
+        right: 92px;
+        top: 159px;
+        left: -32%;
+        padding: 20px;
+    }
+
+
+
+
+    .seção {
+        display: block;
+        width: 100%;
+        height: auto;
+        margin-top: 171px;
+    }
+
+    .titulo {
+        font-weight: 900;
+        font-size: 50px;
+        line-height: 60.95px;
+        margin-left: -10px
+    }
+
+
+    .titulo-2 {
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 36.57px;
+        margin-bottom: 20px;
+        margin-left: 0px;
+    }
+
+
+
+
+    .button-men {
+        display: block;
+        margin: auto 0;
+    }
+
+    }
