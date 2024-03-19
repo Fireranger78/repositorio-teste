@@ -1,4 +1,4 @@
-<h1>Projeto responsivo desafio resposivo devclub= We care Your Pet </h1>
+<h1>Projeto responsivo desafio responsivo devclub= We care Your Pet </h1>
 <h2> Programas usados:</h2>
  Html:<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=" html">
 css:<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
